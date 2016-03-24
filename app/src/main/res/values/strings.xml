@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gymglish</string>
+    <string-array name="websites">
+        <item>www.gymglish.com</item>
+        <item>www.frantastique.com</item>
+        <item>www.vatefaireconjuguer.com</item>
+        <item>www.richmorning.com</item>
+        <item>www.thewordofthemonth.com</item>
+    </string-array>
+</resources>
